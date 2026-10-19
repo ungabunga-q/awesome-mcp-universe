@@ -66,6 +66,7 @@ A massive, curated list of Model Context Protocol (MCP) servers, tools, SDKs, cl
 
 A huge list of awesome MCP server implementations:
 
+- <img src="https://github.com/nuanu-ai.png" width="20"/> [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local macOS CLI and stdio MCP payments with foreground owner approval for signing.
 - <img src="https://img.icons8.com/color/24/000000/server.png" width="20"/> [OpenMCP](https://github.com/example/openmcp) - High-performance, open-source MCP server in Go.
 - <img src="https://img.icons8.com/color/24/000000/nodejs.png" width="20"/> [MCP.js](https://github.com/example/mcpjs) - Lightweight MCP server in Node.js.
 - <img src="https://img.icons8.com/color/24/000000/python.png" width="20"/> [PyMCP](https://github.com/example/pymcp) - Python-based MCP server for rapid prototyping.
